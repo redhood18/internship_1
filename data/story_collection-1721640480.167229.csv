@@ -1,0 +1,427 @@
+,doc_name,doc_content,doc_token_lenth,doc_content_ids,doc_content_chunks,upserted
+0,data/HT2000W-Satellite-Modem-User-Sheet.pdf,"1041318 -0001 Revision A  January 26 , 2017 
+HT2000W Satellite Modem User  Sheet  
+  
+  This quick start guide provides general information for your HT2000W 
+satellite modem. There are descriptions of the modem software, Wi -Fi 
+management, simple troubleshooting, as well as the Customer Care contact 
+information.  
+ 
+Figure  1: HT2000W satellite modem  
+System Control Center  
+The System Control Center is a set of screens and links you can use to 
+monitor your service and troublesho ot the satellite modem in the event of 
+a problem. The System Control Center provides access to system status, 
+configuration information, and online documentation.  
+To open the System Control Center, follow these steps:  
+1. Open a web browser such as Chrome, Fir efox, or Internet Explorer.  
+2. Type www.systemcontrolcenter.com  in the address bar and hit Enter.  
+ 
+Figure 2 : System Control Center home page  
+Indicator l inks 
+At the top of each System Control Center p age are two indicators (Figure 3) 
+followed by a link: the System Status link and the System Information link.  
+ 
+Figure 3 : Indicators and links  
+The System Status indicator changes color to indicate the operational status of the satellite modem.  
+• A red indicator means the system has a problem.  
+• An orange indicator means the system is in FAP condition.  
+• A yellow  indicator means the system is operational in a degraded 
+condition.  
+• A green indicator means that all functions are operating within normal 
+paramete rs. 
+Click the System Status  link to view a detailed report of the functions of the 
+modem.  
+Click the System Information  link to view the unique identifying details of 
+the modem’s hardware and software.  
+Parameters bar 
+The parameters bar (Figure 4 ) appears at  the top of all System Control 
+Center screens and displays the Site Account Number (SAN), Electronic Serial Number (ESN), and Diagnostic Code, which is used to trou bleshoot 
+problems when calling Customer C are. 
+ 
+Figure 4: Parameters bar  
+Center panel links and information  
+The System Control Center home page center panel includes the following 
+text links and informational panels once service is activated. 
+• Welcome to HughesNet – Gives you access to the HughesNet Web 
+Portal, which contains a variety of useful t ools, resou rces, and 
+information.  
+• Additional Premium Services –  Gives you access to additional services 
+and self -help information  
+• Customer Care –  Navigates to the Customer Care page where you 
+manage the various facets of your account.  
+Side panel  
+Figure 5 shows links appearing on the left side of the System Control Center 
+screen.  
+ 
+Figure 5 : Side panel links  
+• The Home link opens the System Control Center home page.  
+• The Connectivity Test link opens the Connectivity Test page, which you 
+can use to test the connection between the satellite modem and the 
+NOC.  
+• The Built -In Self Test link checks the internal operation of the modem.  
+• The Wi -Fi Settings link allows you to customize certain aspects of the 
+modem’s Wi -Fi functionality. 
+Connectivity Test  
+Use the Connec tivity Test link on the side panel to check the connectivity to 
+the Hughes Network Operations Center (NOC). To run the test:  
+1. Click the Connectivity Test  link in the side panel. The 
+Terminal/Gateway Connectivity Test appears in the center of the 
+screen.  
+2. Click the Start the test  link shown in Figur e 6. 
+ 
+Figure 6 : Connectivity Test start screen  
+ 
+ 
+Built -In Self Test  
+Use the Built -In Self Test link on the side panel to check the connectivity of 
+the satellite modem.  
+1. To initiate the test, click the Built -In Self  Test  link on the side panel. 
+The test results appear on the page, as shown in Figure 7 . 
+ 
+Figure 7 : Built -In Self Test results  
+Note:  If the  Built -In Self Test fails, contact Customer Care for assistance. 
+See the Contact Information section on the back of this page for 
+details. 
+ 
+Wi-Fi SettingsNote:  If the  Built -In Self Test fails, contact Customer Care for assistance. 
+See the Contact Information section on the back of this page for 
+details. 
+ 
+Wi-Fi Settings  
+Use the Wi -Fi Settings  link to access pages that allow you to manage various 
+features of the modem’s Wi -Fi service.  
+1. To access these pages, click t he Wi-Fi Settings  link on the side 
+panel . You will see the login page as shown in Figure 8.  
+2. The default password is “admin.” Ent er this password in the dialog 
+box and click Login . 
+ 
+Figure 8: Wi -Fi Settings login screen  
+ 
+ 
+ 
+ 4 3 1 2 Do not block any of the modem’s 
+ventilation openings. Leave six 
+inches around the top and sides of 
+the modem to ensure adequate 
+ventilation. Do not put the modem 
+near a heat source such as direct 
+sunlight, a radiator, or a vent.1041318 -0001 Revision A  January 26 , 2017 
+8   
+  
+ Once you have logged in, you will see the Wi -Fi Settings home screen, as 
+shown in Figure 9.  
+ 
+Figure 9: Wi-Fi Settings home screen  
+We recommend you change the default login password immediately upon 
+installation. Choose a password that is easy to remember but cannot be 
+easily guessed. To do this:  
+1. On the left panel, click  Administration . 
+2. New option s will appear in the left panel. Click  Password Settings . 
+ 
+3. Type in your old password, followed by your new password, typed twice for verification.  
+4. Click Save Settings . 
+5. Once finished applying changes, you will be logged out, and your 
+new password must be used to log in.  
+See the following section for details about how to access and use the Wi -Fi 
+Settings pages.  
+ 
+How do I manage my built -in Wi- Fi 
+modem ? 
+1. Type 192.168.0.1  into any web browser connected (wirelessly or via 
+LAN cable) to your HT2000W.  
+2. Click the Wi-Fi Settings  link mentioned on the previous page.  
+3. Enter the default administrative password: “admin”  
+4. Click the LOGIN  button.  
+5. Here are some optional features of the Wi -Fi Settings:  
+a. Modify the default SSID and password for both the 2.4GHz and 
+5GHz bands.  
+b. Enable and/or name the 2.4GHz and 5 GHz guest networks.  
+c. Disable Wi- Fi from your HT2000W by unchecking “SSID enable” for 
+each tab (2.4GHz, 2.4GHz Guest, 5GHz, and 5GHz Guest).  
+d. View which devices are connected.  
+e. Manage parental control features, port forwarding, etc.  
+How do I pair my device(s) to my 
+HughesNet Wi -Fi modem ? 
+Manual pairing method:  
+1. See the back panel of the HT2000W. Look for the sticker p ictured 
+below:  
+ 
+2. The SSIDs for both the 2.4GHz and 5GHz networks are listed.  
+3. The password listed is the same for both networks.  
+4. Using the device you wish to pair, search for either wireless network 
+matching the SSID above.  
+5. Connect to the network.  
+6. When prompted for a password, enter the password exactly as it 
+appears on the label on the back of the HT2000W, referenced above.  
+Wi-Fi Protected Setup  (WPS)  
+1. Put your device into WPS pairing mode (this step varies by device).  
+2. Once your device tells you to, press the WPS button on the HT2000W.  
+3. Your device should then connect to the HT2000W’s wireless network 
+automatically.  
+Troubleshooting  
+If you are having trouble with the function of your modem, review the 
+following sections for information that may help you discover the source of the problem and/or how to fix it.  
+Connecting the modem power cord  
+The HT2000W power cord connector uses a locking mechanism to ensure it stays snugly connected to the modem. Make sure the connector is oriented correctly when plugging it  into the DC IN port; the flat side of the plug 
+should face the modem’s side panel  nearest to the port . 
+Figure 10 shows the correct position of the  power cord connector. When 
+connecting the power cord, you must push the connector into the DC IN 
+port.  This creates a locking connection between the power cord and the 
+modem.  
+ 
+Figure 10:  Aligning the power cord connector  
+It is not recommended that you attempt to disconnect the power cord 
+from the modem, unless instructed to do so by Customer Care.  
+If you need t o turn off or power cycle the modem, simply unplug the cord 
+from the electrical outlet.  
+Computer Requirements  
+The computer that connects to the satellite modem should meet the 
+minimum requirements specified by the computer operating system manufacturer and  the following netw orking and browser requirements:  
+• A web browser with proxy settings disabled  
+• Device must be Wi -Fi compatible , or 
+• Device must have an Ethernet port 
+ 
+Copyright © 201 7 Hughes Network Systems, LLC  
+All rights reserved. This publication and its contents are proprietary to Hughes Network Systems, LLC. 
+No part of this publication may be reproduced in any form or by any means without the writtenAll rights reserved. This publication and its contents are proprietary to Hughes Network Systems, LLC. 
+No part of this publication may be reproduced in any form or by any means without the written 
+permission of Hughes Network Systems, LLC, 11717 Exploration Lane, Germantown, Maryland 20876. 
+Hughes Network Systems, LLC has made every effort to ensure the correctness and completeness of 
+the material in this document. Hughes Network Systems, LLC shall not be liable for errors contained 
+herein. The information in this document is subject to change without notice. Hughes Network 
+Systems, LLC makes no warranty of any kind with regard to this material, including, but not limited 
+to, the implied warranties of merchantability and fitness for a particular purpose.  
+Trademarks  
+Hughes, HughesNet, and Hughes Network Systems are trademarks of Hughes  
+Network Systems, LLC. All other trademarks are the property of their respective owners.  Front panel LEDs  
+The satellite modem has six  LEDs on the front panel, as shown  in Figure  11. 
+By their appearance (on, off, or blinking ), the LEDs indicate the modem’s 
+operating status. The front panel LEDs are white when lit.  
+ 
+Figure 10 : Front panel LEDs  
+Contact Information  
+For a full version of this guide or for 24/7 access to your account:  
+• Register or Sign In to myHughesNet.com   
+• Click on the myAccount  link in the top left corner of the page.  
+• Click on the Support  tab. 
+— Guides can be found by clicking on the Repair & Returns  link. 
+For additional suppor t, contact Customer Care at 1 -866- 347-3292.  
+Business Internet customers call 1 -866-347- 3272.  
+5 6 
+7 Flat 
+side of 
+plug",2441,"['data/HT2000W-Satellite-Modem-User-Sheet.pdf_0', 'data/HT2000W-Satellite-Modem-User-Sheet.pdf_1', 'data/HT2000W-Satellite-Modem-User-Sheet.pdf_2']","['1041318 -0001 Revision A  January 26 , 2017 \nHT2000W Satellite Modem User  Sheet  \n  \n  This quick start guide provides general information for your HT2000W \nsatellite modem. There are descriptions of the modem software, Wi -Fi \nmanagement, simple troubleshooting, as well as the Customer Care contact \ninformation.  \n \nFigure  1: HT2000W satellite modem  \nSystem Control Center  \nThe System Control Center is a set of screens and links you can use to \nmonitor your service and troublesho ot the satellite modem in the event of \na problem. The System Control Center provides access to system status, \nconfiguration information, and online documentation.  \nTo open the System Control Center, follow these steps:  \n1. Open a web browser such as Chrome, Fir efox, or Internet Explorer.  \n2. Type www.systemcontrolcenter.com  in the address bar and hit Enter.  \n \nFigure 2 : System Control Center home page  \nIndicator l inks \nAt the top of each System Control Center p age are two indicators (Figure 3) \nfollowed by a link: the System Status link and the System Information link.  \n \nFigure 3 : Indicators and links  \nThe System Status indicator changes color to indicate the operational status of the satellite modem.  \n• A red indicator means the system has a problem.  \n• An orange indicator means the system is in FAP condition.  \n• A yellow  indicator means the system is operational in a degraded \ncondition.  \n• A green indicator means that all functions are operating within normal \nparamete rs. \nClick the System Status  link to view a detailed report of the functions of the \nmodem.  \nClick the System Information  link to view the unique identifying details of \nthe modem’s hardware and software.  \nParameters bar \nThe parameters bar (Figure 4 ) appears at  the top of all System Control \nCenter screens and displays the Site Account Number (SAN), Electronic Serial Number (ESN), and Diagnostic Code, which is used to trou bleshoot \nproblems when calling Customer C are. \n \nFigure 4: Parameters bar  \nCenter panel links and information  \nThe System Control Center home page center panel includes the following \ntext links and informational panels once service is activated. \n• Welcome to HughesNet – Gives you access to the HughesNet Web \nPortal, which contains a variety of useful t ools, resou rces, and \ninformation.  \n• Additional Premium Services –  Gives you access to additional services \nand self -help information  \n• Customer Care –  Navigates to the Customer Care page where you \nmanage the various facets of your account.  \nSide panel  \nFigure 5 shows links appearing on the left side of the System Control Center \nscreen.  \n \nFigure 5 : Side panel links  \n• The Home link opens the System Control Center home page.  \n• The Connectivity Test link opens the Connectivity Test page, which you \ncan use to test the connection between the satellite modem and the \nNOC.  \n• The Built -In Self Test link checks the internal operation of the modem.  \n• The Wi -Fi Settings link allows you to customize certain aspects of the \nmodem’s Wi -Fi functionality. \nConnectivity Test  \nUse the Connec tivity Test link on the side panel to check the connectivity to \nthe Hughes Network Operations Center (NOC). To run the test:  \n1. Click the Connectivity Test  link in the side panel. The \nTerminal/Gateway Connectivity Test appears in the center of the \nscreen.  \n2. Click the Start the test  link shown in Figur e 6. \n \nFigure 6 : Connectivity Test start screen  \n \n \nBuilt -In Self Test  \nUse the Built -In Self Test link on the side panel to check the connectivity of \nthe satellite modem.  \n1. To initiate the test, click the Built -In Self  Test  link on the side panel. \nThe test results appear on the page, as shown in Figure 7 . \n \nFigure 7 : Built -In Self Test results  \nNote:  If the  Built -In Self Test fails, contact Customer Care for assistance. \nSee the Contact Information section on the back of this page for \ndetails. \n \nWi-Fi SettingsNote:  If the  Built -In Self Test fails, contact Customer Care for assistance. \nSee the Contact Information section on the back of this page for \ndetails. \n \nWi-Fi Settings  \nUse the Wi -Fi Settings  link to access pages that allow you to manage various \nfeatures of the modem’s Wi -Fi service.  \n1. To access these pages, click t he Wi-Fi Settings  link on the side \npanel . You will see the login page as shown in Figure 8.  \n2. The default password is “admin.” Ent er this password in the dialog \nbox and click Login . \n \nFigure 8: Wi -Fi Settings login screen  \n \n \n \n ', ' modem’s Wi -Fi service.  \n1. To access these pages, click t he Wi-Fi Settings  link on the side \npanel . You will see the login page as shown in Figure 8.  \n2. The default password is “admin.” Ent er this password in the dialog \nbox and click Login . \n \nFigure 8: Wi -Fi Settings login screen  \n \n \n \n 4 3 1 2 Do not block any of the modem’s \nventilation openings. Leave six \ninches around the top and sides of \nthe modem to ensure adequate \nventilation. Do not put the modem \nnear a heat source such as direct \nsunlight, a radiator, or a vent.1041318 -0001 Revision A  January 26 , 2017 \n8   \n  \n Once you have logged in, you will see the Wi -Fi Settings home screen, as \nshown in Figure 9.  \n \nFigure 9: Wi-Fi Settings home screen  \nWe recommend you change the default login password immediately upon \ninstallation. Choose a password that is easy to remember but cannot be \neasily guessed. To do this:  \n1. On the left panel, click  Administration . \n2. New option s will appear in the left panel. Click  Password Settings . \n \n3. Type in your old password, followed by your new password, typed twice for verification.  \n4. Click Save Settings . \n5. Once finished applying changes, you will be logged out, and your \nnew password must be used to log in.  \nSee the following section for details about how to access and use the Wi -Fi \nSettings pages.  \n \nHow do I manage my built -in Wi- Fi \nmodem ? \n1. Type 192.168.0.1  into any web browser connected (wirelessly or via \nLAN cable) to your HT2000W.  \n2. Click the Wi-Fi Settings  link mentioned on the previous page.  \n3. Enter the default administrative password: “admin”  \n4. Click the LOGIN  button.  \n5. Here are some optional features of the Wi -Fi Settings:  \na. Modify the default SSID and password for both the 2.4GHz and \n5GHz bands.  \nb. Enable and/or name the 2.4GHz and 5 GHz guest networks.  \nc. Disable Wi- Fi from your HT2000W by unchecking “SSID enable” for \neach tab (2.4GHz, 2.4GHz Guest, 5GHz, and 5GHz Guest).  \nd. View which devices are connected.  \ne. Manage parental control features, port forwarding, etc.  \nHow do I pair my device(s) to my \nHughesNet Wi -Fi modem ? \nManual pairing method:  \n1. See the back panel of the HT2000W. Look for the sticker p ictured \nbelow:  \n \n2. The SSIDs for both the 2.4GHz and 5GHz networks are listed.  \n3. The password listed is the same for both networks.  \n4. Using the device you wish to pair, search for either wireless network \nmatching the SSID above.  \n5. Connect to the network.  \n6. When prompted for a password, enter the password exactly as it \nappears on the label on the back of the HT2000W, referenced above.  \nWi-Fi Protected Setup  (WPS)  \n1. Put your device into WPS pairing mode (this step varies by device).  \n2. Once your device tells you to, press the WPS button on the HT2000W.  \n3. Your device should then connect to the HT2000W’s wireless network \nautomatically.  \nTroubleshooting  \nIf you are having trouble with the function of your modem, review the \nfollowing sections for information that may help you discover the source of the problem and/or how to fix it.  \nConnecting the modem power cord  \nThe HT2000W power cord connector uses a locking mechanism to ensure it stays snugly connected to the modem. Make sure the connector is oriented correctly when plugging it  into the DC IN port; the flat side of the plug \nshould face the modem’s side panel  nearest to the port . \nFigure 10 shows the correct position of the  power cord connector. When \nconnecting the power cord, you must push the connector into the DC IN \nport.  This creates a locking connection between the power cord and the \nmodem.  \n \nFigure 10:  Aligning the power cord connector  \nIt is not recommended that you attempt to disconnect the power cord \nfrom the modem, unless instructed to do so by Customer Care.  \nIf you need t o turn off or power cycle the modem, simply unplug the cord \nfrom the electrical outlet.  \nComputer Requirements  \nThe computer that connects to the satellite modem should meet the \nminimum requirements specified by the computer operating system', ' the power cord connector  \nIt is not recommended that you attempt to disconnect the power cord \nfrom the modem, unless instructed to do so by Customer Care.  \nIf you need t o turn off or power cycle the modem, simply unplug the cord \nfrom the electrical outlet.  \nComputer Requirements  \nThe computer that connects to the satellite modem should meet the \nminimum requirements specified by the computer operating system manufacturer and  the following netw orking and browser requirements:  \n• A web browser with proxy settings disabled  \n• Device must be Wi -Fi compatible , or \n• Device must have an Ethernet port \n \nCopyright © 201 7 Hughes Network Systems, LLC  \nAll rights reserved. This publication and its contents are proprietary to Hughes Network Systems, LLC. \nNo part of this publication may be reproduced in any form or by any means without the writtenAll rights reserved. This publication and its contents are proprietary to Hughes Network Systems, LLC. \nNo part of this publication may be reproduced in any form or by any means without the written \npermission of Hughes Network Systems, LLC, 11717 Exploration Lane, Germantown, Maryland 20876. \nHughes Network Systems, LLC has made every effort to ensure the correctness and completeness of \nthe material in this document. Hughes Network Systems, LLC shall not be liable for errors contained \nherein. The information in this document is subject to change without notice. Hughes Network \nSystems, LLC makes no warranty of any kind with regard to this material, including, but not limited \nto, the implied warranties of merchantability and fitness for a particular purpose.  \nTrademarks  \nHughes, HughesNet, and Hughes Network Systems are trademarks of Hughes  \nNetwork Systems, LLC. All other trademarks are the property of their respective owners.  Front panel LEDs  \nThe satellite modem has six  LEDs on the front panel, as shown  in Figure  11. \nBy their appearance (on, off, or blinking ), the LEDs indicate the modem’s \noperating status. The front panel LEDs are white when lit.  \n \nFigure 10 : Front panel LEDs  \nContact Information  \nFor a full version of this guide or for 24/7 access to your account:  \n• Register or Sign In to myHughesNet.com   \n• Click on the myAccount  link in the top left corner of the page.  \n• Click on the Support  tab. \n— Guides can be found by clicking on the Repair & Returns  link. \nFor additional suppor t, contact Customer Care at 1 -866- 347-3292.  \nBusiness Internet customers call 1 -866-347- 3272.  \n5 6 \n7 Flat \nside of \nplug']",True
+1,data/.ipynb_checkpoints/HT2000W-Satellite-Modem-User-Sheet-checkpoint.pdf,"1041318 -0001 Revision A  January 26 , 2017 
+HT2000W Satellite Modem User  Sheet  
+  
+  This quick start guide provides general information for your HT2000W 
+satellite modem. There are descriptions of the modem software, Wi -Fi 
+management, simple troubleshooting, as well as the Customer Care contact 
+information.  
+ 
+Figure  1: HT2000W satellite modem  
+System Control Center  
+The System Control Center is a set of screens and links you can use to 
+monitor your service and troublesho ot the satellite modem in the event of 
+a problem. The System Control Center provides access to system status, 
+configuration information, and online documentation.  
+To open the System Control Center, follow these steps:  
+1. Open a web browser such as Chrome, Fir efox, or Internet Explorer.  
+2. Type www.systemcontrolcenter.com  in the address bar and hit Enter.  
+ 
+Figure 2 : System Control Center home page  
+Indicator l inks 
+At the top of each System Control Center p age are two indicators (Figure 3) 
+followed by a link: the System Status link and the System Information link.  
+ 
+Figure 3 : Indicators and links  
+The System Status indicator changes color to indicate the operational status of the satellite modem.  
+• A red indicator means the system has a problem.  
+• An orange indicator means the system is in FAP condition.  
+• A yellow  indicator means the system is operational in a degraded 
+condition.  
+• A green indicator means that all functions are operating within normal 
+paramete rs. 
+Click the System Status  link to view a detailed report of the functions of the 
+modem.  
+Click the System Information  link to view the unique identifying details of 
+the modem’s hardware and software.  
+Parameters bar 
+The parameters bar (Figure 4 ) appears at  the top of all System Control 
+Center screens and displays the Site Account Number (SAN), Electronic Serial Number (ESN), and Diagnostic Code, which is used to trou bleshoot 
+problems when calling Customer C are. 
+ 
+Figure 4: Parameters bar  
+Center panel links and information  
+The System Control Center home page center panel includes the following 
+text links and informational panels once service is activated. 
+• Welcome to HughesNet – Gives you access to the HughesNet Web 
+Portal, which contains a variety of useful t ools, resou rces, and 
+information.  
+• Additional Premium Services –  Gives you access to additional services 
+and self -help information  
+• Customer Care –  Navigates to the Customer Care page where you 
+manage the various facets of your account.  
+Side panel  
+Figure 5 shows links appearing on the left side of the System Control Center 
+screen.  
+ 
+Figure 5 : Side panel links  
+• The Home link opens the System Control Center home page.  
+• The Connectivity Test link opens the Connectivity Test page, which you 
+can use to test the connection between the satellite modem and the 
+NOC.  
+• The Built -In Self Test link checks the internal operation of the modem.  
+• The Wi -Fi Settings link allows you to customize certain aspects of the 
+modem’s Wi -Fi functionality. 
+Connectivity Test  
+Use the Connec tivity Test link on the side panel to check the connectivity to 
+the Hughes Network Operations Center (NOC). To run the test:  
+1. Click the Connectivity Test  link in the side panel. The 
+Terminal/Gateway Connectivity Test appears in the center of the 
+screen.  
+2. Click the Start the test  link shown in Figur e 6. 
+ 
+Figure 6 : Connectivity Test start screen  
+ 
+ 
+Built -In Self Test  
+Use the Built -In Self Test link on the side panel to check the connectivity of 
+the satellite modem.  
+1. To initiate the test, click the Built -In Self  Test  link on the side panel. 
+The test results appear on the page, as shown in Figure 7 . 
+ 
+Figure 7 : Built -In Self Test results  
+Note:  If the  Built -In Self Test fails, contact Customer Care for assistance. 
+See the Contact Information section on the back of this page for 
+details. 
+ 
+Wi-Fi SettingsNote:  If the  Built -In Self Test fails, contact Customer Care for assistance. 
+See the Contact Information section on the back of this page for 
+details. 
+ 
+Wi-Fi Settings  
+Use the Wi -Fi Settings  link to access pages that allow you to manage various 
+features of the modem’s Wi -Fi service.  
+1. To access these pages, click t he Wi-Fi Settings  link on the side 
+panel . You will see the login page as shown in Figure 8.  
+2. The default password is “admin.” Ent er this password in the dialog 
+box and click Login . 
+ 
+Figure 8: Wi -Fi Settings login screen  
+ 
+ 
+ 
+ 4 3 1 2 Do not block any of the modem’s 
+ventilation openings. Leave six 
+inches around the top and sides of 
+the modem to ensure adequate 
+ventilation. Do not put the modem 
+near a heat source such as direct 
+sunlight, a radiator, or a vent.1041318 -0001 Revision A  January 26 , 2017 
+8   
+  
+ Once you have logged in, you will see the Wi -Fi Settings home screen, as 
+shown in Figure 9.  
+ 
+Figure 9: Wi-Fi Settings home screen  
+We recommend you change the default login password immediately upon 
+installation. Choose a password that is easy to remember but cannot be 
+easily guessed. To do this:  
+1. On the left panel, click  Administration . 
+2. New option s will appear in the left panel. Click  Password Settings . 
+ 
+3. Type in your old password, followed by your new password, typed twice for verification.  
+4. Click Save Settings . 
+5. Once finished applying changes, you will be logged out, and your 
+new password must be used to log in.  
+See the following section for details about how to access and use the Wi -Fi 
+Settings pages.  
+ 
+How do I manage my built -in Wi- Fi 
+modem ? 
+1. Type 192.168.0.1  into any web browser connected (wirelessly or via 
+LAN cable) to your HT2000W.  
+2. Click the Wi-Fi Settings  link mentioned on the previous page.  
+3. Enter the default administrative password: “admin”  
+4. Click the LOGIN  button.  
+5. Here are some optional features of the Wi -Fi Settings:  
+a. Modify the default SSID and password for both the 2.4GHz and 
+5GHz bands.  
+b. Enable and/or name the 2.4GHz and 5 GHz guest networks.  
+c. Disable Wi- Fi from your HT2000W by unchecking “SSID enable” for 
+each tab (2.4GHz, 2.4GHz Guest, 5GHz, and 5GHz Guest).  
+d. View which devices are connected.  
+e. Manage parental control features, port forwarding, etc.  
+How do I pair my device(s) to my 
+HughesNet Wi -Fi modem ? 
+Manual pairing method:  
+1. See the back panel of the HT2000W. Look for the sticker p ictured 
+below:  
+ 
+2. The SSIDs for both the 2.4GHz and 5GHz networks are listed.  
+3. The password listed is the same for both networks.  
+4. Using the device you wish to pair, search for either wireless network 
+matching the SSID above.  
+5. Connect to the network.  
+6. When prompted for a password, enter the password exactly as it 
+appears on the label on the back of the HT2000W, referenced above.  
+Wi-Fi Protected Setup  (WPS)  
+1. Put your device into WPS pairing mode (this step varies by device).  
+2. Once your device tells you to, press the WPS button on the HT2000W.  
+3. Your device should then connect to the HT2000W’s wireless network 
+automatically.  
+Troubleshooting  
+If you are having trouble with the function of your modem, review the 
+following sections for information that may help you discover the source of the problem and/or how to fix it.  
+Connecting the modem power cord  
+The HT2000W power cord connector uses a locking mechanism to ensure it stays snugly connected to the modem. Make sure the connector is oriented correctly when plugging it  into the DC IN port; the flat side of the plug 
+should face the modem’s side panel  nearest to the port . 
+Figure 10 shows the correct position of the  power cord connector. When 
+connecting the power cord, you must push the connector into the DC IN 
+port.  This creates a locking connection between the power cord and the 
+modem.  
+ 
+Figure 10:  Aligning the power cord connector  
+It is not recommended that you attempt to disconnect the power cord 
+from the modem, unless instructed to do so by Customer Care.  
+If you need t o turn off or power cycle the modem, simply unplug the cord 
+from the electrical outlet.  
+Computer Requirements  
+The computer that connects to the satellite modem should meet the 
+minimum requirements specified by the computer operating system manufacturer and  the following netw orking and browser requirements:  
+• A web browser with proxy settings disabled  
+• Device must be Wi -Fi compatible , or 
+• Device must have an Ethernet port 
+ 
+Copyright © 201 7 Hughes Network Systems, LLC  
+All rights reserved. This publication and its contents are proprietary to Hughes Network Systems, LLC. 
+No part of this publication may be reproduced in any form or by any means without the writtenAll rights reserved. This publication and its contents are proprietary to Hughes Network Systems, LLC. 
+No part of this publication may be reproduced in any form or by any means without the written 
+permission of Hughes Network Systems, LLC, 11717 Exploration Lane, Germantown, Maryland 20876. 
+Hughes Network Systems, LLC has made every effort to ensure the correctness and completeness of 
+the material in this document. Hughes Network Systems, LLC shall not be liable for errors contained 
+herein. The information in this document is subject to change without notice. Hughes Network 
+Systems, LLC makes no warranty of any kind with regard to this material, including, but not limited 
+to, the implied warranties of merchantability and fitness for a particular purpose.  
+Trademarks  
+Hughes, HughesNet, and Hughes Network Systems are trademarks of Hughes  
+Network Systems, LLC. All other trademarks are the property of their respective owners.  Front panel LEDs  
+The satellite modem has six  LEDs on the front panel, as shown  in Figure  11. 
+By their appearance (on, off, or blinking ), the LEDs indicate the modem’s 
+operating status. The front panel LEDs are white when lit.  
+ 
+Figure 10 : Front panel LEDs  
+Contact Information  
+For a full version of this guide or for 24/7 access to your account:  
+• Register or Sign In to myHughesNet.com   
+• Click on the myAccount  link in the top left corner of the page.  
+• Click on the Support  tab. 
+— Guides can be found by clicking on the Repair & Returns  link. 
+For additional suppor t, contact Customer Care at 1 -866- 347-3292.  
+Business Internet customers call 1 -866-347- 3272.  
+5 6 
+7 Flat 
+side of 
+plug",2441,"['data/.ipynb_checkpoints/HT2000W-Satellite-Modem-User-Sheet-checkpoint.pdf_0', 'data/.ipynb_checkpoints/HT2000W-Satellite-Modem-User-Sheet-checkpoint.pdf_1', 'data/.ipynb_checkpoints/HT2000W-Satellite-Modem-User-Sheet-checkpoint.pdf_2']","['1041318 -0001 Revision A  January 26 , 2017 \nHT2000W Satellite Modem User  Sheet  \n  \n  This quick start guide provides general information for your HT2000W \nsatellite modem. There are descriptions of the modem software, Wi -Fi \nmanagement, simple troubleshooting, as well as the Customer Care contact \ninformation.  \n \nFigure  1: HT2000W satellite modem  \nSystem Control Center  \nThe System Control Center is a set of screens and links you can use to \nmonitor your service and troublesho ot the satellite modem in the event of \na problem. The System Control Center provides access to system status, \nconfiguration information, and online documentation.  \nTo open the System Control Center, follow these steps:  \n1. Open a web browser such as Chrome, Fir efox, or Internet Explorer.  \n2. Type www.systemcontrolcenter.com  in the address bar and hit Enter.  \n \nFigure 2 : System Control Center home page  \nIndicator l inks \nAt the top of each System Control Center p age are two indicators (Figure 3) \nfollowed by a link: the System Status link and the System Information link.  \n \nFigure 3 : Indicators and links  \nThe System Status indicator changes color to indicate the operational status of the satellite modem.  \n• A red indicator means the system has a problem.  \n• An orange indicator means the system is in FAP condition.  \n• A yellow  indicator means the system is operational in a degraded \ncondition.  \n• A green indicator means that all functions are operating within normal \nparamete rs. \nClick the System Status  link to view a detailed report of the functions of the \nmodem.  \nClick the System Information  link to view the unique identifying details of \nthe modem’s hardware and software.  \nParameters bar \nThe parameters bar (Figure 4 ) appears at  the top of all System Control \nCenter screens and displays the Site Account Number (SAN), Electronic Serial Number (ESN), and Diagnostic Code, which is used to trou bleshoot \nproblems when calling Customer C are. \n \nFigure 4: Parameters bar  \nCenter panel links and information  \nThe System Control Center home page center panel includes the following \ntext links and informational panels once service is activated. \n• Welcome to HughesNet – Gives you access to the HughesNet Web \nPortal, which contains a variety of useful t ools, resou rces, and \ninformation.  \n• Additional Premium Services –  Gives you access to additional services \nand self -help information  \n• Customer Care –  Navigates to the Customer Care page where you \nmanage the various facets of your account.  \nSide panel  \nFigure 5 shows links appearing on the left side of the System Control Center \nscreen.  \n \nFigure 5 : Side panel links  \n• The Home link opens the System Control Center home page.  \n• The Connectivity Test link opens the Connectivity Test page, which you \ncan use to test the connection between the satellite modem and the \nNOC.  \n• The Built -In Self Test link checks the internal operation of the modem.  \n• The Wi -Fi Settings link allows you to customize certain aspects of the \nmodem’s Wi -Fi functionality. \nConnectivity Test  \nUse the Connec tivity Test link on the side panel to check the connectivity to \nthe Hughes Network Operations Center (NOC). To run the test:  \n1. Click the Connectivity Test  link in the side panel. The \nTerminal/Gateway Connectivity Test appears in the center of the \nscreen.  \n2. Click the Start the test  link shown in Figur e 6. \n \nFigure 6 : Connectivity Test start screen  \n \n \nBuilt -In Self Test  \nUse the Built -In Self Test link on the side panel to check the connectivity of \nthe satellite modem.  \n1. To initiate the test, click the Built -In Self  Test  link on the side panel. \nThe test results appear on the page, as shown in Figure 7 . \n \nFigure 7 : Built -In Self Test results  \nNote:  If the  Built -In Self Test fails, contact Customer Care for assistance. \nSee the Contact Information section on the back of this page for \ndetails. \n \nWi-Fi SettingsNote:  If the  Built -In Self Test fails, contact Customer Care for assistance. \nSee the Contact Information section on the back of this page for \ndetails. \n \nWi-Fi Settings  \nUse the Wi -Fi Settings  link to access pages that allow you to manage various \nfeatures of the modem’s Wi -Fi service.  \n1. To access these pages, click t he Wi-Fi Settings  link on the side \npanel . You will see the login page as shown in Figure 8.  \n2. The default password is “admin.” Ent er this password in the dialog \nbox and click Login . \n \nFigure 8: Wi -Fi Settings login screen  \n \n \n \n ', ' modem’s Wi -Fi service.  \n1. To access these pages, click t he Wi-Fi Settings  link on the side \npanel . You will see the login page as shown in Figure 8.  \n2. The default password is “admin.” Ent er this password in the dialog \nbox and click Login . \n \nFigure 8: Wi -Fi Settings login screen  \n \n \n \n 4 3 1 2 Do not block any of the modem’s \nventilation openings. Leave six \ninches around the top and sides of \nthe modem to ensure adequate \nventilation. Do not put the modem \nnear a heat source such as direct \nsunlight, a radiator, or a vent.1041318 -0001 Revision A  January 26 , 2017 \n8   \n  \n Once you have logged in, you will see the Wi -Fi Settings home screen, as \nshown in Figure 9.  \n \nFigure 9: Wi-Fi Settings home screen  \nWe recommend you change the default login password immediately upon \ninstallation. Choose a password that is easy to remember but cannot be \neasily guessed. To do this:  \n1. On the left panel, click  Administration . \n2. New option s will appear in the left panel. Click  Password Settings . \n \n3. Type in your old password, followed by your new password, typed twice for verification.  \n4. Click Save Settings . \n5. Once finished applying changes, you will be logged out, and your \nnew password must be used to log in.  \nSee the following section for details about how to access and use the Wi -Fi \nSettings pages.  \n \nHow do I manage my built -in Wi- Fi \nmodem ? \n1. Type 192.168.0.1  into any web browser connected (wirelessly or via \nLAN cable) to your HT2000W.  \n2. Click the Wi-Fi Settings  link mentioned on the previous page.  \n3. Enter the default administrative password: “admin”  \n4. Click the LOGIN  button.  \n5. Here are some optional features of the Wi -Fi Settings:  \na. Modify the default SSID and password for both the 2.4GHz and \n5GHz bands.  \nb. Enable and/or name the 2.4GHz and 5 GHz guest networks.  \nc. Disable Wi- Fi from your HT2000W by unchecking “SSID enable” for \neach tab (2.4GHz, 2.4GHz Guest, 5GHz, and 5GHz Guest).  \nd. View which devices are connected.  \ne. Manage parental control features, port forwarding, etc.  \nHow do I pair my device(s) to my \nHughesNet Wi -Fi modem ? \nManual pairing method:  \n1. See the back panel of the HT2000W. Look for the sticker p ictured \nbelow:  \n \n2. The SSIDs for both the 2.4GHz and 5GHz networks are listed.  \n3. The password listed is the same for both networks.  \n4. Using the device you wish to pair, search for either wireless network \nmatching the SSID above.  \n5. Connect to the network.  \n6. When prompted for a password, enter the password exactly as it \nappears on the label on the back of the HT2000W, referenced above.  \nWi-Fi Protected Setup  (WPS)  \n1. Put your device into WPS pairing mode (this step varies by device).  \n2. Once your device tells you to, press the WPS button on the HT2000W.  \n3. Your device should then connect to the HT2000W’s wireless network \nautomatically.  \nTroubleshooting  \nIf you are having trouble with the function of your modem, review the \nfollowing sections for information that may help you discover the source of the problem and/or how to fix it.  \nConnecting the modem power cord  \nThe HT2000W power cord connector uses a locking mechanism to ensure it stays snugly connected to the modem. Make sure the connector is oriented correctly when plugging it  into the DC IN port; the flat side of the plug \nshould face the modem’s side panel  nearest to the port . \nFigure 10 shows the correct position of the  power cord connector. When \nconnecting the power cord, you must push the connector into the DC IN \nport.  This creates a locking connection between the power cord and the \nmodem.  \n \nFigure 10:  Aligning the power cord connector  \nIt is not recommended that you attempt to disconnect the power cord \nfrom the modem, unless instructed to do so by Customer Care.  \nIf you need t o turn off or power cycle the modem, simply unplug the cord \nfrom the electrical outlet.  \nComputer Requirements  \nThe computer that connects to the satellite modem should meet the \nminimum requirements specified by the computer operating system', ' the power cord connector  \nIt is not recommended that you attempt to disconnect the power cord \nfrom the modem, unless instructed to do so by Customer Care.  \nIf you need t o turn off or power cycle the modem, simply unplug the cord \nfrom the electrical outlet.  \nComputer Requirements  \nThe computer that connects to the satellite modem should meet the \nminimum requirements specified by the computer operating system manufacturer and  the following netw orking and browser requirements:  \n• A web browser with proxy settings disabled  \n• Device must be Wi -Fi compatible , or \n• Device must have an Ethernet port \n \nCopyright © 201 7 Hughes Network Systems, LLC  \nAll rights reserved. This publication and its contents are proprietary to Hughes Network Systems, LLC. \nNo part of this publication may be reproduced in any form or by any means without the writtenAll rights reserved. This publication and its contents are proprietary to Hughes Network Systems, LLC. \nNo part of this publication may be reproduced in any form or by any means without the written \npermission of Hughes Network Systems, LLC, 11717 Exploration Lane, Germantown, Maryland 20876. \nHughes Network Systems, LLC has made every effort to ensure the correctness and completeness of \nthe material in this document. Hughes Network Systems, LLC shall not be liable for errors contained \nherein. The information in this document is subject to change without notice. Hughes Network \nSystems, LLC makes no warranty of any kind with regard to this material, including, but not limited \nto, the implied warranties of merchantability and fitness for a particular purpose.  \nTrademarks  \nHughes, HughesNet, and Hughes Network Systems are trademarks of Hughes  \nNetwork Systems, LLC. All other trademarks are the property of their respective owners.  Front panel LEDs  \nThe satellite modem has six  LEDs on the front panel, as shown  in Figure  11. \nBy their appearance (on, off, or blinking ), the LEDs indicate the modem’s \noperating status. The front panel LEDs are white when lit.  \n \nFigure 10 : Front panel LEDs  \nContact Information  \nFor a full version of this guide or for 24/7 access to your account:  \n• Register or Sign In to myHughesNet.com   \n• Click on the myAccount  link in the top left corner of the page.  \n• Click on the Support  tab. \n— Guides can be found by clicking on the Repair & Returns  link. \nFor additional suppor t, contact Customer Care at 1 -866- 347-3292.  \nBusiness Internet customers call 1 -866-347- 3272.  \n5 6 \n7 Flat \nside of \nplug']",True
